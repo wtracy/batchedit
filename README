@@ -1,0 +1,5 @@
+I got tired of running "gimp *.jpg" and having my machine keel over when 200 images open.
+
+Run "batchedit <editor name>" and all the the files in the working directory will be run through whatever editor program you name. When you want to open the next file, return to the terminal and press enter. You can manually close any file when you are done, or leave it open so you can work on files in the order of your choice.
+
+This program only handles batch launching of an interactive editor; if you want to have a set of files manipulated without human intervention, this tool is not for you.
